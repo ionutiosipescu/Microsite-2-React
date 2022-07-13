@@ -33,7 +33,7 @@ const Overview = () => {
             dolor aliquip occaecat velit proident.
           </p>
           <div className="my-3 border-bottom border-top border-3">
-            <h4 className="text-info py-2">
+            <h4 className=" py-2" style={{ color: "var(--lightBlue)" }}>
               {" "}
               Brazilian Restructuring and Insolvency Engagements
             </h4>
@@ -49,20 +49,22 @@ const Overview = () => {
           >
             <Row className="rounded">
               <Col>
-                <h4 className="fw-bold text-info">Our Services</h4>
+                <h4 className="fw-bold " style={{ color: "var(--lightBlue)" }}>
+                  Our Services
+                </h4>
                 <Row className="my-4 fw-bold">
                   <Col>
-                    <div>Digital Strategy Digital Strategy</div>
-                    <div>Digital Strategy Digital Strategy</div>
-                    <div>Digital Strategy Digital Strategy</div>
-                    <div>Digital Strategy Digital Strategy </div>
-                    <div>Digital Strategy Digital Strategy</div>
-                    <div>Digital Strategy Digital Strategy</div>
+                    <div>Coorporate Transformation</div>
+                    <div>Restructuring & Turnaround</div>
+                    <div>Private Equity Services</div>
+                    <div>Interim and Crisis Management</div>
+                    <div>Transaction Advisory</div>
+                    <div> Disputes and Investigations</div>
                   </Col>
                   <Col>
-                    <div>Digital Strategy Digital Strategy</div>
-                    <div>Digital Strategy Digital Strategy</div>
-                    <div>Digital Strategy Digital Strategy</div>
+                    <div>Judicial Administration / Trustee Services</div>
+                    <div>Infrastructure & Capital Projects</div>
+                    <div> Real Estate</div>
                     <YellowButton
                       text={"Read more about our Services"}
                       width="80%"

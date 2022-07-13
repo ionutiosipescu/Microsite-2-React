@@ -24,7 +24,7 @@ const Hero = styled.div`
 
     height: 100%;
     border-radius: 0px;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.4);
     height: 500px;
     width: 35%;
     font-size: 14px;
