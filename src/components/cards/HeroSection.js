@@ -26,11 +26,11 @@ const Hero = styled.div`
     border-radius: 0px;
     background-color: rgba(0, 0, 0, 0.3);
     height: 500px;
-    width: 45%;
+    width: 35%;
     font-size: 14px;
 
     margin-top: -70px;
-    margin-left: 35px; /* margin-left: 70px; */
+    margin-left: 140px; /* margin-left: 70px; */
   }
 `;
 
