@@ -8,14 +8,14 @@ import Insight from "../../pages/insight/Insight";
 import Leadership from "../../pages/leadership/Leadership";
 
 export const routeNames = {
-  home: "/",
-  expertise: "/expertise",
-  insight: "/insight",
-  leadership: "/leadership",
-  contact: "/contact",
+  // home: "/",
+  // expertise: "/expertise",
+  // insight: "/insight",
+  // leadership: "/leadership",
+  // contact: "/contact",
 
-  about: "/about",
-  dashboard: "/dashboard",
+  about: "/",
+  // dashboard: "/dashboard",
 };
 
 const routes = [
