@@ -4,9 +4,10 @@ import Navbar from './NavBar'
 import Footer from './Footer'
 
 const Page = styled.div`
-	max-width: 80%;
 	margin: 0 auto;
-	// border: 2px solid red;
+	background-color: white;
+    max-width: 1280px;
+	width: 100%;
 `
 const Container = styled.div`
 	background: var(--gray1);
