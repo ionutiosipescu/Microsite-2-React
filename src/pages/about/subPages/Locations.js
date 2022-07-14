@@ -16,7 +16,7 @@ const Locations = () => {
           </Col>
         </Row>
         <Row className='p-0 m-0 d-flex flex-column flex-lg-row'>
-          <Col lg={6} className="d-flex flex-md-wrap flex-md-row">
+          <Col lg={6} className="d-flex flex-md-wrap flex-column  flex-md-row">
           <CardsLocations/>
           <CardsLocations/>
           <CardsLocations/>
